@@ -6,5 +6,5 @@ _The Cynder SMP Minecraft Server website, (re)designed by @azi_ishere1_
 
 # Developers
 
-## @kebabmario
-## @azi_ishere1
+- @kebabmario
+- @azi_ishere1
